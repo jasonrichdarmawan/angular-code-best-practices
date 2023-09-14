@@ -1,3 +1,9 @@
+# Client and Server Component
+
+![Client and Server Component](./README_assets/mereka.io%20-%20Angular%20Universal%20Checklist-Client%20and%20Server%20Component.drawio.svg)
+
+# Architectural Pattern
+
 ![Architectural Pattern](./README_assets/mereka.io%20-%20Angular%20Universal%20Checklist-Architectural%20Pattern.drawio.svg)
 
 # AngularCodeBestPractice
