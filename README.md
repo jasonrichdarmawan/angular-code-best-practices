@@ -1,3 +1,5 @@
+![Architectural Pattern](./README_assets/mereka.io%20-%20Angular%20Universal%20Checklist-Architectural%20Pattern.drawio.svg)
+
 # AngularCodeBestPractice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.12.
